@@ -1,6 +1,4 @@
-# SlimeApocalypse
-
-![Project Image](insert_image_url_here)
+# SlimeApocalypse ![Project Image](insert_image_url_here)
 
 Brief description of your project.
 
