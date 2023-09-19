@@ -1,4 +1,5 @@
-# SlimeApocalypse ![Project Image](https://img.itch.zone/aW1nLzEzMTMzMTI4LnBuZw==/347x500/wzScQb.png))
+# SlimeApocalypse 
+![Project Image](https://img.itch.zone/aW1nLzEzMTMzMTI4LnBuZw==/347x500/wzScQb.png)
 
 Brief description of your project.
 
