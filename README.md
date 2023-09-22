@@ -1,63 +1,54 @@
-# SlimeApocalypse 
-![Project Image](https://img.itch.zone/aW1nLzEzMTMzMTI4LnBuZw==/347x500/wzScQb.png)
+# Slime Apocalypse
 
-Brief description of your project.
-
-## Table of Contents
-
-- [Project Name](#project-name)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
+<img src="" height="70%" width="70%">
 
 ## Description
+The last survivor in a world overrun by monsters, he had faced near-death experiences time and again. Now, armed only with throwing knives, he has become a fearless monster hunter, taking down each terrifying creature one by one.
 
-Provide a brief overview of your project. What does it do? Why is it useful or interesting?
+## Game Mechanic
+Purchasing items with points is pretty simple. To accumulate points, simply let your player take damage from enemies; your health will decrease, but those losses will be converted into points.  
 
-## Features
+## Game controls
 
-List the key features or functionalities of your project.
+The following controls are bound in-game, for gameplay and testing.
 
-## Getting Started
+| Key Binding       | Function          |
+| ----------------- | ----------------- |
+| W,A,S,D           | Standard movement |
+| Left Click        | Throw  knife      |
 
-Explain how to get started with your project. Provide step-by-step instructions, if necessary.
+### Script
 
-### Prerequisites
+This game operates on a series of scripts..
 
-List any prerequisites or dependencies that users need to install before using your project.
+| Script       | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `PlayerMovement` | To control player movement such as "WASD". |
+| `Animated`  | Control all the animation such as Player, Clone, and Enemy. |
+| `CloneHealth`  | Control clone health. |
+| `FixRotateHealthBar`  | Fix health bar rotation for example: player face the left side or right side the rotation still remaining same.  |
+| `DetectPlayer`  | Detect player is within enemy range.  |
+| `EnemyCondition`  | Condition of an enemy such as getting hit by player or die.  |
+| `HitPlayer`  | If player enter range attack will get hit. |
+| `SpawnEnemy`  | Spawn manager to control spawn system. |
+| `HealthSystem`  | Simplify class of health system. |
+| `InputSystem`  | New input system. |
+| `Knife damage`  | to damage enemy when it hit. |
+| `PlayerHurt`  | Condition of the player such as getting hit by enemy or die. |
+| `PlayerInput`  | Control all input. |
+| `ThrowKnife`  | Throw knife by mouse direction. |
+| `BackgroundLoop`  | Move the background if player move to all direction. |
+| `ChangeScene`  | Control changing scene. |
+| `DestroyKnife`  | Knife will get destroy when fly out of screen. |
+| `FollowTarget`  | Follow player position such as player move to right main camera, spawner, and background follow the player position. |
+| `ThrowKnife`  | Throw knife by mouse direction. |
+| `GameManager`  | Manage point and wave system. |
+| `MovingSpawner`  | To make sure spawn position is random. |
+| `BuyButton`  | Action after mouse clicked for buy button. |
+| `GUIButton`  | Action after mouse clicked for menu. |
+| `VolumeControl`  | Control game volume. |
+| `Point`  | Show point in UI text. |
 
-### Installation
-
-Provide installation instructions, code examples, or scripts to help users set up your project on their local machines.
-
-## Usage
-
-Show examples of how to use your project. Include code snippets and usage scenarios.
-
-## Contributing
-
-Explain how others can contribute to your project. Provide guidelines for submitting issues, feature requests, or pull requests.
-
-## License
-
-Specify the license under which your project is distributed. For example, you can use:
-
-- [MIT License](LICENSE) - If you want to allow others to freely use and modify your project with attribution.
-
-## Contact
-
-Provide contact information or ways for users and collaborators to reach out to you.
-
-- Author Name: [Your Name]
-- Email: [Your Email]
-- Twitter: [Your Twitter]
-- LinkedIn: [Your LinkedIn]
-
-Feel free to customize this README template to fit the specific needs of your project. Including clear and concise information will make it easier for others to understand, use, and contribute to your project.
+##Short Gameplay
+From here:
+https://www.youtube.com/watch?v=xbCiaC3eRx0&ab_channel=ChristopherAngrico
