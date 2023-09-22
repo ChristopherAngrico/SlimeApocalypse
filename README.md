@@ -18,7 +18,7 @@ one human to enter at a time, they need to perform a person swapping ritual for 
 
 
 ## Game Mechanic
-Purchasing items with points is pretty simple. To accumulate points, simply let your player take damage from enemies; your health will decrease, but those losses will be converted into points.  
+The player must defend the Tree of Life from attacks by slimes. The player has access to two characters: a warrior and a firefighter. Each character has a specific role; the warrior is responsible for attacking the slimes, while the firefighter's role is to extinguish fires produce by slime.
 
 ## Game controls
 
@@ -27,7 +27,7 @@ The following controls are bound in-game, for gameplay and testing.
 | Key Binding       | Function          |
 | ----------------- | ----------------- |
 | W,A,S,D           | Standard movement |
-| Left Click        | Throw  knife      |
+| Left Click        | Spray water, and attack      |
 
 ### Script
 This game operates on a series of scripts.
