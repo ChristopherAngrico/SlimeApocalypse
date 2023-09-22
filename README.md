@@ -3,6 +3,18 @@
 <img src="" height="70%" width="70%">
 
 ## Description
+In the middle of the forest, stood a large tree which gives life to the entirety of the forest.
+The residents of the forest named it as the Tree of Life.
+The tree of had a barrier that allowed only one human to enter at a time, to protect itself from any dangers that may come.
+
+When suddenly, slimes started to approach the Tree of Life wanting to burn it down. 
+The slimes were unique, in which they would explode upon being slain creating a huge pool of fire that would spread throughout the surrounding area.
+The slimes were also somehow immune to the effects of the barrier.
+
+While the other inhabitants of the forest were no match for the slimes explosions, two human who lived nearby the tree of life,
+A warrior who is very proficient in using weapons, and a firefighter who is very accustomed to dealing with forest fires.
+It was up to the two of them to protect the the tree of life from the dangers of the exploding slimes.
+one human to enter at a time, they need to perform a person swapping ritual for both of them to be able to do their job.
 
 
 ## Game Mechanic
@@ -18,8 +30,7 @@ The following controls are bound in-game, for gameplay and testing.
 | Left Click        | Throw  knife      |
 
 ### Script
-
-This game operates on a series of scripts..
+This game operates on a series of scripts.
 
 | Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
