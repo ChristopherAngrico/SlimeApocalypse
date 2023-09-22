@@ -27,7 +27,8 @@ The following controls are bound in-game, for gameplay and testing.
 | Key Binding       | Function          |
 | ----------------- | ----------------- |
 | W,A,S,D           | Standard movement |
-| Left Click        | Spray water, and attack      |
+| Left Click        | Spray water, and attack |
+| E        | Switch player |
 
 ### Script
 This game operates on a series of scripts.
