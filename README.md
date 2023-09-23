@@ -1,6 +1,6 @@
 # Slime Apocalypse
 
-<img src="" height="70%" width="70%">
+<img src="https://sat02pap001files.storage.live.com/y4mYswHujbysNXOrHyaGF3E1n0GbDDuCine-71CJfkkR1i5BjbWAfcyoElK3GqYsMUVy9b7mE8a2-ZALQa0kLUraRBbX-GMVZDhPwCv-auDrnPwUNtadPPA8yc7CcYnm1YKpmAK2Vbi3MNSCKZxbFSGuQKb37ObRaVyaOcdUsC6uKfF9ENG_D_QpWv2U2iABhxbi_uN6omUjeub9YfjFQOvw8gB2SdU5UZ7dMPkvlj_eUE?encodeFailures=1&width=1599&height=895" height="70%" width="70%">
 
 ## Description
 In the middle of the forest, stood a large tree which gives life to the entirety of the forest.
