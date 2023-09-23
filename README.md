@@ -29,6 +29,7 @@ The following controls are bound in-game, for gameplay and testing.
 | W,A,S,D           | Standard movement |
 | Left Click        | Spray water, and attack |
 | E        | Switch player |
+| ESC        | To open main menu |
 
 ### Script
 This game operates on a series of scripts.
@@ -36,25 +37,24 @@ This game operates on a series of scripts.
 | Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
 | `PlayerMovement` | To control player movement such as "WASD". |
-| `Animated`  | Control all the animation such as Player, Clone, and Enemy. |
-| `CloneHealth`  | Control clone health. |
+| `PlayerAnimation`  | Control player animation. |
+| `SlimeAnimation`  | Control slime animation. |
 | `FixRotateHealthBar`  | Fix health bar rotation for example: player face the left side or right side the rotation still remaining same.  |
-| `DetectPlayer`  | Detect player is within enemy range.  |
-| `EnemyCondition`  | Condition of an enemy such as getting hit by player or die.  |
-| `HitPlayer`  | If player enter range attack will get hit. |
-| `SpawnEnemy`  | Spawn manager to control spawn system. |
-| `HealthSystem`  | Simplify class of health system. |
-| `InputSystem`  | New input system. |
-| `Knife damage`  | to damage enemy when it hit. |
-| `PlayerHurt`  | Condition of the player such as getting hit by enemy or die. |
-| `PlayerInput`  | Control all input. |
-| `ThrowKnife`  | Throw knife by mouse direction. |
-| `BackgroundLoop`  | Move the background if player move to all direction. |
-| `ChangeScene`  | Control changing scene. |
-| `DestroyKnife`  | Knife will get destroy when fly out of screen. |
+| `HealthSystemComponent`  | Adjust health such as player, slime, and tree of life.  |
+| `PlayerHealth`  | Handle player health.  |
+| `SprayWater`  | Handling spray water of firefighter and follow mouse direction. |
+| `PlayerAttack`  | Handling attack warrior and follow mouse direction. |
+| `SpawnerManager`  | Handling spawn slime. |
+| `PlayerInput`  | New input system. |
+| `ExtinguishFire`  | to put out fire. |
+| `SlimeBreathFire`  | Control fire breath attack. |
+| `SlimeStomper`  | Stomping player or life of tree with fire effect. |
+| `SlimeFireTrail`  | Control the fire trail left by slime. |
+| `TreeOfLife`  | Control the health that has been attacked by slimes. |
+| `SceneChanger`  | Handling changing scene. |
+| `Enemy`  | Create an inheritance class with handling movement and attack to inherite to other class such as SlimeBreathFire, SlimeStomper, SlimeFireTrail. |
 | `FollowTarget`  | Follow player position such as player move to right main camera, spawner, and background follow the player position. |
 | `ThrowKnife`  | Throw knife by mouse direction. |
-| `GameManager`  | Manage point and wave system. |
 | `MovingSpawner`  | To make sure spawn position is random. |
 | `BuyButton`  | Action after mouse clicked for buy button. |
 | `GUIButton`  | Action after mouse clicked for menu. |
