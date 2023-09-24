@@ -43,7 +43,7 @@ This game operates on a series of scripts.
 | `HealthSystemComponent`  | Adjust health such as player, slime, and tree of life.  |
 | `PlayerHealth`  | Handle player health.  |
 | `SprayWater`  | Handling spray water of firefighter and follow mouse direction. |
-| `PlayerAttack`  | Handling attack warrior and follow mouse direction. |
+| `WarriorAttack`  | Handling attack warrior and follow mouse direction. |
 | `SpawnerManager`  | Handling spawn slime. |
 | `PlayerInput`  | New input system. |
 | `ExtinguishFire`  | to put out fire. |
@@ -54,13 +54,12 @@ This game operates on a series of scripts.
 | `SceneChanger`  | Handling changing scene. |
 | `Enemy`  | Create an inheritance class with handling movement and attack to inherite to other class such as SlimeBreathFire, SlimeStomper, SlimeFireTrail. |
 | `FollowTarget`  | Follow player position such as player move to right main camera, spawner, and background follow the player position. |
-| `ThrowKnife`  | Throw knife by mouse direction. |
+| `DestroyFire`  | Destroy fire when the fire is out. |
 | `MovingSpawner`  | To make sure spawn position is random. |
-| `BuyButton`  | Action after mouse clicked for buy button. |
-| `GUIButton`  | Action after mouse clicked for menu. |
-| `VolumeControl`  | Control game volume. |
-| `Point`  | Show point in UI text. |
+| `WaveSystem`  | Manage wave system. |
+| `ScrollingText`  | Make character appear one by one. |
+| `PlayerSwitching`  | SwitchingPlayer. |
 
 ## Short Gameplay
 From here:
-https://www.youtube.com/watch?v=xbCiaC3eRx0&ab_channel=ChristopherAngrico
+https://www.youtube.com/watch?v=s2WeXjx1SCE&ab_channel=ChristopherAngrico
