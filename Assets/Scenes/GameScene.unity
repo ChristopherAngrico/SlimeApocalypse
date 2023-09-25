@@ -659,7 +659,7 @@ GameObject:
   - component: {fileID: 447479436}
   - component: {fileID: 447479437}
   - component: {fileID: 447479438}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: FireFighter
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -706,7 +706,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 10
   m_Sprite: {fileID: -1011572544, guid: 0e8460c68c7528c4ab9bfe2c40a5e4c7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1358,7 +1358,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -2152,7 +2152,7 @@ GameObject:
   - component: {fileID: 1046066955}
   - component: {fileID: 1046066956}
   - component: {fileID: 1046066957}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Warrior
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -2199,7 +2199,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 10
   m_Sprite: {fileID: 1819902790, guid: ae09897a40e47f347ac195fe8ecc5e80, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
