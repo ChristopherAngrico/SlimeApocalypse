@@ -1,7 +1,7 @@
 # Slime Apocalypse
 
 <img src="" height="70%" width="70%">
-![SlimeApo](https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/23724ce0-8743-40d7-9d30-239ec1d5967d)
+![SlimeApo](https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/5352baf2-386b-4e9d-805e-c8a6a13e9696)
 
 ## Description
 In the middle of the forest, stood a large tree which gives life to the entirety of the forest.
