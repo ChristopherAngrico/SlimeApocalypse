@@ -19,7 +19,8 @@ one human to enter at a time, they need to perform a person swapping ritual for 
 
 
 ## Game Mechanic
-The player must defend the Tree of Life from attacks by slimes. The player has access to two characters: a warrior and a firefighter. Each character has a specific role; the warrior is responsible for attacking the slimes, while the firefighter's role is to extinguish fires produce by slime.
+<p>SlimeBreath<p/>
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/5352baf2-386b-4e9d-805e-c8a6a13e9696" height="30%" width="30%">
 
 ## Game controls
 
