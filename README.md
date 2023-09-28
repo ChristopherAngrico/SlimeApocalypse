@@ -21,7 +21,29 @@ one human to enter at a time, they need to perform a person swapping ritual for 
 ## Game Mechanic
 <p>SlimeBreath<p/>
 <img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/5352baf2-386b-4e9d-805e-c8a6a13e9696" height="30%" width="30%">
+  
+<p>Slime Trail<p/>
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/trail.GIF" 30%" width="30%">
 
+<p>Slime Stomp<p/>
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/stomp.GIF" 30%" width="30%">
+
+<p>Prologue<p/>
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/Prologue.GIF?raw=true"30%" width="30%">
+
+<p>TransitionPrologue<p/>
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/transprologue.GIF" width="30%">
+
+<p>Attack<p/>
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/attack.GIF" 30%" width="30%">
+
+<p>Flip<p/>
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/flip.GIF" 30%" width="30%">
+
+<p>Switch character<p/>
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/switching.GIF" 30%" width="30%">
+
+  
 ## Game controls
 
 The following controls are bound in-game, for gameplay and testing.
