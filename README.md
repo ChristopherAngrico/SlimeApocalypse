@@ -1,6 +1,6 @@
 # Slime Apocalypse
 
-<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/5352baf2-386b-4e9d-805e-c8a6a13e9696" height="70%" width="70%">
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/a8d5c052-5afb-4b0b-92c6-cac46f42ac98" height="70%" width="70%">
 
 
 ## Description
