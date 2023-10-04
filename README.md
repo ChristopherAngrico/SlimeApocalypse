@@ -132,6 +132,7 @@ private void Update(){
 
 <p>Attack<p/>
 <img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/ff4503ca-ef2c-4b58-afed-b18d297383d0" 30%" width="30%">
+  
 ```C#
 if (!disableAttack)
 {
