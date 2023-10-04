@@ -17,31 +17,30 @@ A warrior who is very proficient in using weapons, and a firefighter who is very
 It was up to the two of them to protect the the tree of life from the dangers of the exploding slimes.
 one human to enter at a time, they need to perform a person swapping ritual for both of them to be able to do their job.
 
-
 ## Game Mechanic
 <p>SlimeBreath<p/>
-<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/5352baf2-386b-4e9d-805e-c8a6a13e9696" height="30%" width="30%">
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/9f3066cd-270e-4508-965e-4d044216bb82" height="30%" width="30%">
   
 <p>Slime Trail<p/>
-<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/trail.GIF" 30%" width="30%">
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/a17ab3b5-6f80-4a08-b9d1-d7145b7f7192" 30%" width="30%">
 
 <p>Slime Stomp<p/>
-<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/stomp.GIF" 30%" width="30%">
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/79c6705e-be16-4239-8844-397afab3a51b" 30%" width="30%">
 
 <p>Prologue<p/>
-<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/Prologue.GIF?raw=true"30%" width="30%">
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/7f6a02dc-25f1-4658-8762-b58dab4e2819"30%" width="30%">
 
 <p>TransitionPrologue<p/>
-<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/transprologue.GIF" width="30%">
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/7ed27b14-b354-4122-88fc-9d006cd38008" width="30%">
 
 <p>Attack<p/>
-<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/attack.GIF" 30%" width="30%">
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/ff4503ca-ef2c-4b58-afed-b18d297383d0" 30%" width="30%">
 
 <p>Flip<p/>
-<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/flip.GIF" 30%" width="30%">
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/46f620ca-e114-4167-917e-b159d02eda2b" 30%" width="30%">
 
 <p>Switch character<p/>
-<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/blob/main/AllPhoto/switching.GIF" 30%" width="30%">
+<img src="https://github.com/ChristopherAngrico/SlimeApocalypse/assets/87889745/eaf4812b-60e8-4105-81d3-a31cf06ee037" 30%" width="30%">
 
   
 ## Game controls
