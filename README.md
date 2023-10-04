@@ -236,35 +236,3 @@ The following controls are bound in-game, for gameplay and testing.
 | E        | Switch player |
 | ESC        | To open main menu |
 
-### Script
-This game operates on a series of scripts.
-
-| Script       | Description                                                  |
-| ------------------- | ------------------------------------------------------------ |
-| `PlayerMovement` | To control player movement such as "WASD". |
-| `PlayerAnimation`  | Control player animation. |
-| `SlimeAnimation`  | Control slime animation. |
-| `FixRotateHealthBar`  | Fix health bar rotation for example: player face the left side or right side the rotation still remaining same.  |
-| `HealthSystemComponent`  | Adjust health such as player, slime, and tree of life.  |
-| `PlayerHealth`  | Handle player health.  |
-| `SprayWater`  | Handling spray water of firefighter and follow mouse direction. |
-| `WarriorAttack`  | Handling attack warrior and follow mouse direction. |
-| `SpawnerManager`  | Handling spawn slime. |
-| `PlayerInput`  | New input system. |
-| `ExtinguishFire`  | to put out fire. |
-| `SlimeBreathFire`  | Control fire breath attack. |
-| `SlimeStomper`  | Stomping player or life of tree with fire effect. |
-| `SlimeFireTrail`  | Control the fire trail left by slime. |
-| `TreeOfLife`  | Control the health that has been attacked by slimes. |
-| `SceneChanger`  | Handling changing scene. |
-| `Enemy`  | Create an inheritance class with handling movement and attack to inherite to other class such as SlimeBreathFire, SlimeStomper, SlimeFireTrail. |
-| `FollowTarget`  | Follow player position such as player move to right main camera, spawner, and background follow the player position. |
-| `DestroyFire`  | Destroy fire when the fire is out. |
-| `MovingSpawner`  | To make sure spawn position is random. |
-| `WaveSystem`  | Manage wave system. |
-| `ScrollingText`  | Make character appear one by one. |
-| `PlayerSwitching`  | SwitchingPlayer. |
-
-## Short Gameplay
-From here:
-https://www.youtube.com/watch?v=s2WeXjx1SCE&ab_channel=ChristopherAngrico
